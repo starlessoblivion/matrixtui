@@ -7,7 +7,7 @@ Multi-account terminal Matrix client. Simultaneous connections to multiple serve
 Install [Rust](https://rustup.rs), then:
 
 ```
-cargo install --git https://github.com/marshallumsted/matrixtui.git
+cargo install --git https://github.com/starlessoblivion/matrixtui.git
 ```
 
 Run with `mtui`. To update, run the same command again.
